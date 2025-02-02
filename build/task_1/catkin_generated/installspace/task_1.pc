@@ -1,0 +1,8 @@
+prefix=/home/naman/catkin_ws/install
+
+Name: task_1
+Description: Description of task_1
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

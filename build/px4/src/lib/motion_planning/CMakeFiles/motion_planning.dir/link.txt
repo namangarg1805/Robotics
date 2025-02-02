@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/naman/catkin_ws/devel/.private/px4/lib/libmotion_planning.a  CMakeFiles/motion_planning.dir/VelocitySmoothing.cpp.o CMakeFiles/motion_planning.dir/PositionSmoothing.cpp.o
+/usr/bin/ranlib /home/naman/catkin_ws/devel/.private/px4/lib/libmotion_planning.a

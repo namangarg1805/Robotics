@@ -1,0 +1,20 @@
+strawberry_stacker/task_1
+/home/naman/catkin_ws/devel/.private/task_1/cmake.lock /home/naman/catkin_ws/devel/./cmake.lock
+/home/naman/catkin_ws/devel/.private/task_1/lib/python3/dist-packages/task_1/__init__.py /home/naman/catkin_ws/devel/lib/python3/dist-packages/task_1/__init__.py
+/home/naman/catkin_ws/devel/.private/task_1/lib/python3/dist-packages/task_1/msg/__init__.py /home/naman/catkin_ws/devel/lib/python3/dist-packages/task_1/msg/__init__.py
+/home/naman/catkin_ws/devel/.private/task_1/lib/python3/dist-packages/task_1/msg/_Marker.py /home/naman/catkin_ws/devel/lib/python3/dist-packages/task_1/msg/_Marker.py
+/home/naman/catkin_ws/devel/.private/task_1/lib/pkgconfig/task_1.pc /home/naman/catkin_ws/devel/lib/pkgconfig/task_1.pc
+/home/naman/catkin_ws/devel/.private/task_1/share/task_1/cmake/task_1-msg-paths.cmake /home/naman/catkin_ws/devel/share/task_1/cmake/task_1-msg-paths.cmake
+/home/naman/catkin_ws/devel/.private/task_1/share/task_1/cmake/task_1Config-version.cmake /home/naman/catkin_ws/devel/share/task_1/cmake/task_1Config-version.cmake
+/home/naman/catkin_ws/devel/.private/task_1/share/task_1/cmake/task_1-msg-extras.cmake /home/naman/catkin_ws/devel/share/task_1/cmake/task_1-msg-extras.cmake
+/home/naman/catkin_ws/devel/.private/task_1/share/task_1/cmake/task_1Config.cmake /home/naman/catkin_ws/devel/share/task_1/cmake/task_1Config.cmake
+/home/naman/catkin_ws/devel/.private/task_1/share/common-lisp/ros/task_1/msg/_package_Marker.lisp /home/naman/catkin_ws/devel/share/common-lisp/ros/task_1/msg/_package_Marker.lisp
+/home/naman/catkin_ws/devel/.private/task_1/share/common-lisp/ros/task_1/msg/task_1-msg.asd /home/naman/catkin_ws/devel/share/common-lisp/ros/task_1/msg/task_1-msg.asd
+/home/naman/catkin_ws/devel/.private/task_1/share/common-lisp/ros/task_1/msg/_package.lisp /home/naman/catkin_ws/devel/share/common-lisp/ros/task_1/msg/_package.lisp
+/home/naman/catkin_ws/devel/.private/task_1/share/common-lisp/ros/task_1/msg/Marker.lisp /home/naman/catkin_ws/devel/share/common-lisp/ros/task_1/msg/Marker.lisp
+/home/naman/catkin_ws/devel/.private/task_1/share/gennodejs/ros/task_1/_index.js /home/naman/catkin_ws/devel/share/gennodejs/ros/task_1/_index.js
+/home/naman/catkin_ws/devel/.private/task_1/share/gennodejs/ros/task_1/msg/Marker.js /home/naman/catkin_ws/devel/share/gennodejs/ros/task_1/msg/Marker.js
+/home/naman/catkin_ws/devel/.private/task_1/share/gennodejs/ros/task_1/msg/_index.js /home/naman/catkin_ws/devel/share/gennodejs/ros/task_1/msg/_index.js
+/home/naman/catkin_ws/devel/.private/task_1/share/roseus/ros/task_1/manifest.l /home/naman/catkin_ws/devel/share/roseus/ros/task_1/manifest.l
+/home/naman/catkin_ws/devel/.private/task_1/share/roseus/ros/task_1/msg/Marker.l /home/naman/catkin_ws/devel/share/roseus/ros/task_1/msg/Marker.l
+/home/naman/catkin_ws/devel/.private/task_1/include/task_1/Marker.h /home/naman/catkin_ws/devel/include/task_1/Marker.h

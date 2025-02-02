@@ -1,0 +1,12 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _task_1_generate_messages_check_deps_Marker
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 14%] Built target std_msgs_generate_messages_nodejs
+[ 28%] Built target task_1_generate_messages_py
+[ 42%] Built target task_1_generate_messages_lisp
+[ 71%] Built target task_1_generate_messages_eus
+[ 85%] Built target task_1_generate_messages_nodejs
+[100%] Built target task_1_generate_messages_cpp
+[100%] Built target task_1_generate_messages

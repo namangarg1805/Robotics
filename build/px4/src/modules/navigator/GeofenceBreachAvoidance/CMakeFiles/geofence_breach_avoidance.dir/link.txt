@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/naman/catkin_ws/devel/.private/px4/lib/libgeofence_breach_avoidance.a  CMakeFiles/geofence_breach_avoidance.dir/geofence_breach_avoidance.cpp.o
+/usr/bin/ranlib /home/naman/catkin_ws/devel/.private/px4/lib/libgeofence_breach_avoidance.a

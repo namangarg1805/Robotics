@@ -1,0 +1,1 @@
+[33mwarning: UAVCAN_V1_GNSS_SUBSCRIBER_0 (defined at src/drivers/uavcan_v1/Kconfig:75) has leading or trailing whitespace in its prompt[0m

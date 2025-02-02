@@ -1,0 +1,8 @@
+prefix=/home/naman/catkin_ws/devel/.private/task_5
+
+Name: task_5
+Description: Description of task_5
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

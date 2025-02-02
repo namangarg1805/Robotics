@@ -1,0 +1,1 @@
+/home/naman/catkin_ws/devel/.private/task_1/share/roseus/ros/task_1/manifest.l

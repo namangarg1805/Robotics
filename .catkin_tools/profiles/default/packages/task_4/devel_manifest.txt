@@ -1,0 +1,5 @@
+strawberry_stacker/task_4
+/home/naman/catkin_ws/devel/.private/task_4/cmake.lock /home/naman/catkin_ws/devel/./cmake.lock
+/home/naman/catkin_ws/devel/.private/task_4/lib/pkgconfig/task_4.pc /home/naman/catkin_ws/devel/lib/pkgconfig/task_4.pc
+/home/naman/catkin_ws/devel/.private/task_4/share/task_4/cmake/task_4Config-version.cmake /home/naman/catkin_ws/devel/share/task_4/cmake/task_4Config-version.cmake
+/home/naman/catkin_ws/devel/.private/task_4/share/task_4/cmake/task_4Config.cmake /home/naman/catkin_ws/devel/share/task_4/cmake/task_4Config.cmake

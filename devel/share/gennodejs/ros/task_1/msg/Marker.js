@@ -1,0 +1,1 @@
+/home/naman/catkin_ws/devel/.private/task_1/share/gennodejs/ros/task_1/msg/Marker.js

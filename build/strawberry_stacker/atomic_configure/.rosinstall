@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/naman/catkin_ws/devel/.private/strawberry_stacker/setup.sh
